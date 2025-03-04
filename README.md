@@ -1,7 +1,15 @@
 # Hi there, I'm Jayendra Naik! 👋
 
+## About Me
 
-🚀 **Data Analyst** | 📊 **Data Storyteller** | 🐍 **Python Enthusiast** | 📊 **BI Visualization Expert**
+- **📊 Data Analyst:** Passionate about transforming raw data into actionable insights.
+- **💼 Working With:** MS Excel, SQL (MySQL & PostgreSQL), Power BI, and Python (with libraries like NumPy, Pandas, Matplotlib, and Seaborn).
+- **💡 Data Enthusiast:** Loves exploring new techniques in data visualization and analysis to uncover meaningful insights.
+- **🎥 Content Creator:** Produces engaging video presentations on YouTube.
+- **🤝 Networker:** Enjoys connecting with professionals on LinkedIn.
+
+**Let's harness the power of data together!**
+
 <hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
 
 ## 🔥 **What I Bring to the Table**
