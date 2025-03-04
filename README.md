@@ -42,9 +42,9 @@
     <img src="https://img.icons8.com/color/48/youtube--v1.png" width="55" style="border:0; outline:none;" alt="YouTube"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jayendranaik00@gmail.com?subject=Data%20Analysis%20Opportunity" style="text-decoration:none; border:0; outline:none;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="55" style="border:0; outline:none;" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=jayendranaik00@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45">
+</a>
 </div>
 
 <hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
