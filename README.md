@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/color/48/youtube--v1.png" width="55" style="border:0; outline:none;" alt="YouTube"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=jayendranaik00@gmail.com style="text-decoration:none; border:0; outline:none;">
+  <a href="mailto:jayendranaik00@gmail.com" style="text-decoration:none; border:0; outline:none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="55" style="border:0; outline:none;" alt="Email"/>
   </a>
 </div>
