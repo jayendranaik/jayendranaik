@@ -12,19 +12,6 @@
 
 <hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
 
-## 🔥 **What I Bring to the Table**
-
-<div align="center">
-  
-| **Data Analysis**       | **Business Intelligence**     | **Database Management**       |
-|-------------------------|-------------------------------|--------------------------------|
-| ![Excel](https://img.icons8.com/office/48/000000/microsoft-excel.png) **Excel**<br>Advanced Formulas<br>Data Modeling | ![Statistics](https://img.icons8.com/color/48/000000/statistics.png) **Statistics**<br>Hypothesis Testing<br>A/B Testing | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) **PostgreSQL**<br>Query Optimization<br>ETL Pipelines |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**<br>Pandas • NumPy<br>Seaborn • Matplotlib | ![PowerBI](https://img.icons8.com/color/48/000000/power-bi.png) **Power BI**<br>DAX Formulas<br>Dashboard Design | ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) **MySQL**<br>Schema Design<br>Performance Tuning |
-
-</div>
-
-<hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
-
 ## 🛠️ **Technical Toolkit**
 
 <div align="center">
@@ -39,6 +26,21 @@
 </div>
 
 <hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
+
+## 🎥 Video Presentations
+
+🎬 I also create video presentations explaining my data analysis projects. Check them out on my YouTube channel:
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-My%20Videos-red?logo=youtube)](https://www.youtube.com/@JayendraNaik-ss5fj)
+
+
+<a href="https://youtu.be/GT3YB2slgOY?si=7aoqI_YpJi4IhRr7">
+  <img src=https://i.imgur.com/39TAQ1f.png width="300" alt="Video Thumbnail"/>
+</a>
+
+
+<hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
+
 
 ## 🌐 **Connect with Me**
 <div align="center">
@@ -57,21 +59,6 @@
 
 <hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
 
-## 🎥 Video Presentations
-
-🎬 I also create video presentations explaining my data analysis projects. Check them out on my YouTube channel:
-
-[![YouTube Channel](https://img.shields.io/badge/YouTube-My%20Videos-red?logo=youtube)](https://www.youtube.com/@JayendraNaik-ss5fj)
-
-<figure style="text-align: left;">
-<a href="https://youtu.be/GT3YB2slgOY?si=7aoqI_YpJi4IhRr7">
-  <img src="https://i.imgur.com/8akQZQd.png" width="300" alt="Video Thumbnail"/>
-</a>
-<figcaption><strong>Exploring Coffee Shop Sales Data Analysis Dashboard | MS Excel Dashboard Project Walkthrough |</strong></figcaption>
-</figure>
-
-
-<hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
 
 ## 📊 **Activity Dashboard**
 <div align="center">
