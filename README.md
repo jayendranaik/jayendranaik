@@ -63,6 +63,14 @@
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-My%20Videos-red?logo=youtube)](https://www.youtube.com/@JayendraNaik-ss5fj)
 
+<figure style="text-align: left;">
+<a href="https://youtu.be/GT3YB2slgOY?si=7aoqI_YpJi4IhRr7">
+  <img src="https://i.imgur.com/8akQZQd.png" width="300" alt="Video Thumbnail"/>
+</a>
+<figcaption><strong>Exploring Coffee Shop Sales Data Analysis Dashboard | MS Excel Dashboard Project Walkthrough |</strong></figcaption>
+</figure>
+
+
 <hr style="border: 3px solid white; margin: 1em auto; width: 80%;">
 
 ## 📊 **Activity Dashboard**
