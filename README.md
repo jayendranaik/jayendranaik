@@ -63,7 +63,7 @@
 ## 📊 **Activity Dashboard**
 <div align="center">
 
-| ![GitHub Streak](https://streak-stats.demolab.com?user=jayendranaik&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayendraNaik&layout=compact&theme=vision-friendly-dark) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=jayendranaik&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayendranaik&layout=compact&theme=vision-friendly-dark) |
 |-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 </div>
 
